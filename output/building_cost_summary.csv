@@ -1,0 +1,19 @@
+building_id,building_name,utility,total_cost_usd,avg_monthly_cost_usd,avg_cost_per_unit
+B02,Science Hall,Electric,279063.71,12684.71,0.098
+B01,Library,Electric,226255.67,9427.32,0.098
+B02,Science Hall,Water,210823.62,8784.32,11.4
+B02,Science Hall,Gas,192632.99,8026.37,0.92
+B03,Student Center,Electric,182888.28,7620.35,0.098
+B01,Library,Water,152545.68,6356.07,11.4
+B01,Library,Gas,142985.02,5957.71,0.92
+B05,Residence Hall B,Electric,137570.26,5981.32,0.098
+B04,Residence Hall A,Electric,136839.61,5949.55,0.098
+B03,Student Center,Water,117739.2,5119.1,11.4
+B03,Student Center,Gas,110399.98,4800.0,0.92
+B06,Arts Building,Electric,107426.4,4883.02,0.098
+B04,Residence Hall A,Water,92476.8,4020.73,11.4
+B05,Residence Hall B,Water,91457.64,3976.42,11.4
+B05,Residence Hall B,Gas,88416.04,3684.0,0.92
+B04,Residence Hall A,Gas,82667.22,3594.23,0.92
+B06,Arts Building,Water,72248.64,3141.25,11.4
+B06,Arts Building,Gas,70126.27,2921.93,0.92

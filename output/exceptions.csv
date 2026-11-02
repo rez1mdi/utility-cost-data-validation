@@ -1,0 +1,20 @@
+invoice_id,building_id,utility,period,check,detail
+INV-1293,B05,Electric,2024-11,duplicate_invoice,Invoice ID appears more than once; extra copy removed
+INV-1366,B06,Electric,2024-12,duplicate_invoice,Invoice ID appears more than once; extra copy removed
+INV-1367,B06,Electric,2025-01,duplicate_invoice,Invoice ID appears more than once; extra copy removed
+INV-1258,B04,Gas,2025-12,missing_amount,Invoice has no billed amount
+INV-1426,B06,Water,2025-12,missing_amount,Invoice has no billed amount
+,B04,Electric,2026-01,missing_meter_read,No meter reading for this period
+,B05,Water,2024-09,missing_meter_read,No meter reading for this period
+INV-1075,B02,Electric,2024-09,amount_mismatch,Billed amount does not equal billed usage x rate
+INV-1094,B02,Electric,2026-04,amount_mismatch,Billed amount does not equal billed usage x rate
+INV-1178,B03,Gas,2025-04,amount_mismatch,Billed amount does not equal billed usage x rate
+INV-1197,B03,Water,2024-11,amount_mismatch,Billed amount does not equal billed usage x rate
+INV-1306,B05,Electric,2025-12,amount_mismatch,Billed amount does not equal billed usage x rate
+INV-1379,B06,Electric,2026-01,amount_mismatch,Billed amount does not equal billed usage x rate
+INV-1075,B02,Electric,2024-09,usage_mismatch,Billed usage differs from meter reading by more than 2%
+INV-1178,B03,Gas,2025-04,usage_mismatch,Billed usage differs from meter reading by more than 2%
+INV-1275,B04,Water,2025-05,usage_mismatch,Billed usage differs from meter reading by more than 2%
+INV-1378,B06,Electric,2025-12,usage_mismatch,Billed usage differs from meter reading by more than 2%
+INV-1379,B06,Electric,2026-01,usage_mismatch,Billed usage differs from meter reading by more than 2%
+INV-1275,B04,Water,2025-05,meter_outlier,Meter reading over 3x the usual level
